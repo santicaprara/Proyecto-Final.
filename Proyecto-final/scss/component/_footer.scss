@@ -1,0 +1,36 @@
+.foot {
+    display: flex;
+    justify-content: center;
+    padding: 20px; 
+}
+
+.footPage{
+    margin-right: 150px;
+}
+
+.footPage ul li a {
+    text-decoration: none;
+    color: #212529;
+    font-size: 14px;
+}
+.logosDiv{
+    display: flex;
+    align-items: center;
+}
+.logosDiv a {
+    padding: 10px;
+
+}
+.logoImg {
+    width: 50px;
+    min-width: 20px;
+}
+
+footer {
+    background-color: #FFD5EC;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+}

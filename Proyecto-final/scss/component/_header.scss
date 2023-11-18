@@ -1,0 +1,22 @@
+.header{
+    background-color: rgb(234, 28, 152);
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.25rem 1.875rem;
+}
+.navBar ul{
+    background-color: rgb(217, 217, 217);
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    justify-content: center;
+}
+.nav-links{
+    display: flex;
+    gap:20px;
+}
+.barraDeBusqueda{
+    width: 200px;
+}
